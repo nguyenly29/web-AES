@@ -26,6 +26,5 @@ Tải Xuống Tệp:
 Sau khi quá trình hoàn tất, ứng dụng cung cấp tệp đã mã hóa hoặc giải mã cho người dùng để tải xuống.
 Giao Diện Web
 Thiết Kế Hiện Đại: Giao diện đơn giản, dễ sử dụng với bố cục rõ ràng.
-Khu Vực Kéo và Thả: Cho phép người dùng kéo và thả tệp vào ứng dụng.
 Hướng Dẫn Rõ Ràng: Có phần hướng dẫn để người dùng biết cách sử dụng ứng dụng.
 Hiệu Ứng Tương Tác: Các nút và khu vực có hiệu ứng hover và active để tạo cảm giác tương tác tốt.
