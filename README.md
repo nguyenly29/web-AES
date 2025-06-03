@@ -1,4 +1,7 @@
 ![Screenshot 2025-05-22 111248](https://github.com/user-attachments/assets/b6110a57-0992-4f77-a13a-d2a580f2e0a1)
+Giới thiệu: 
+Đây là một ứng dụng web đơn giản được xây dựng bằng Flask, cho phép người dùng mã hóa và giải mã tệp tin sử dụng thuật toán AES (Advanced Encryption Standard). Ứng dụng hỗ trợ mã hóa và giải mã tệp tin, đảm bảo bảo mật cho dữ liệu quan trọng của người dùng
+
 1. Chức Năng Chính
 Mã Hóa Tệp:
 Người dùng có thể tải lên một tệp tin và nhập khóa mã hóa (16 byte).
